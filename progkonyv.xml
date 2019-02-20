@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://docbook.org/xml/5.1/rng/docbook.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" version="5.1">
+    <info>
+        <title>Programozói kiskönyv</title>
+        <author>
+            <personname>
+                <surname>Kövendy</surname>
+                <firstname>Benedek</firstname>
+            </personname>
+            <affiliation>Egyetemi hallgató</affiliation>
+        </author>
+    </info>
+    <title>Tartalomjegyzék</title>
+    <title>Előszó</title>
+    <para>Sziasztok! Kiskorom óta sokat játszottam számítógépen a lego és miegyebek mellett, innen jött az ötlet hogy programozó szeretnék lenni.A könyvben feladatokat találtok valamint a megoldásukhoz használt gondolkodást.</para></book>
